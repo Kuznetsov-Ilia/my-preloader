@@ -1,6 +1,6 @@
 {
   "name": "my-preloader",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
   "jsnext:main": "index.es",
@@ -10,7 +10,7 @@
     "deploy": "git add . && git commit -am 'fix' && git push && npm publish"
   },
   "dependencies": {
-    "my-global": "^1.0.0"  
+    "my-global": "^2.0.0"  
   },
   "devDependencies": {
     "rollup": "*",
